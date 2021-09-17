@@ -2,7 +2,7 @@
 
 ## Course
 
-## [Week 1]()
+## [Week 1](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-1)
 [Passive Recon](https://github.com/Michael-Pinelli/SEC-335/blob/main/Passive%20Recon.docx)
 
 ## [Week 2](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-2)

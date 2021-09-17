@@ -7,6 +7,7 @@
 
 ## Week 2
 [Host Discovery](https://github.com/Michael-Pinelli/SEC-335/wiki/Host-Discovery)
+
 [Nmap](https://github.com/Michael-Pinelli/SEC-335/wiki/Nmap)
 
 ## Journal

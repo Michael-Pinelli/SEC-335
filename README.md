@@ -10,5 +10,7 @@
 
 [Nmap](https://github.com/Michael-Pinelli/SEC-335/wiki/Nmap)
 
+## [Week 3](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-3)
+
 ## Journal
 [Journal](https://github.com/Michael-Pinelli/SEC-335/wiki)

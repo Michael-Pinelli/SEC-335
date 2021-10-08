@@ -14,5 +14,7 @@
 
 ## [Week 4](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-4)
 
+## [Week 5](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-5)
+
 ## Journal
 [Journal](https://github.com/Michael-Pinelli/SEC-335/wiki)

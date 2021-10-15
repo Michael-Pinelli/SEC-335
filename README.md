@@ -16,5 +16,8 @@
 
 ## [Week 5](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-5)
 
+## [Week 6](https://github.com/Michael-Pinelli/SEC-335/wiki/Week-6)
+[Password Cracking](https://github.com/Michael-Pinelli/SEC-335/wiki/Password-Cracking)
+
 ## Journal
 [Journal](https://github.com/Michael-Pinelli/SEC-335/wiki)
